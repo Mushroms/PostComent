@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View, ScrollView } from 'react-native';
 import Post from './components/post.js';
 import Comment from './components/comments.js';
+import AddComment from './components/addComment.js';
 
 export default class App extends React.Component {
   render() {
@@ -19,6 +20,7 @@ export default class App extends React.Component {
           <Comment>Comment</Comment>
           <Comment>Comment</Comment>
           <Comment>Comment</Comment>
+          <AddComment>AddComment</AddComment>
         </ScrollView>
       </View>
     );
