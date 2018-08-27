@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b2af21fb29cf8f047f5afa1441c8da87d37e15a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_51063c32183b5c2b210672f4ae33e464f4f4cf31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b5ec59bfa2b399473ae7a2187daa90a93f3a5fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_bde29b3e5996554de2f47e608bdc14a341c93bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_64254f522e5573e9647dd559bf1b61903b71f9c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0b4d0988f5c76986effe8dc89081567eb0903936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_effe44cc2992106d421dbe5f4c9ae12f14cb30f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_69f118c3b42fe295c5cc1832ab8f9d6e118a1019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5a9e5d436aa206594b8f708981ac41fc0a96b311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_4b3bc9e7a23b9cfc8f960d696c065e49a759c697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_f668ae3a24ce7a31f72a33def02f2d8d3af41599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2c0c396b3de605352e43ccdb82a96e928e9eb94d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_521c6a0ee4d8e21767168f77b5cdaad96781ddc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_96b76c123ea65588e4190c3a930e4a29f50215e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_61ad6e7c74d7831cf5de67500f4993bc8b053adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_67c528dbf791b408ad0fc1b46d2a6470f3fff1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bc9f418ef9a167e26d9691b2b5c83a533e4e0a62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_bba291aa601b3313dcc1e2e55a343fca41ee8f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/PostComent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6e4848681e017e23ce434ea3f66071051f76836b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7f364ccda39d5f9886ae92fe4fd706d458ce3d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/reutoff/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/reutoff/PostComent/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_460648d8d675203970d266790219578e46a30eea.jar" />
+    </item>
+
+</items>
